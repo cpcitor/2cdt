@@ -1,0 +1,5 @@
+2cdt
+*.depend
+*.exe
+*.layout
+*.bak
